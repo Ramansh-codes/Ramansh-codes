@@ -47,11 +47,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramansh-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramansh-codes&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
+![Followers](https://img.shields.io/github/followers/Ramansh-codes?style=flat-square&color=1D9E75&label=Followers)
+![Stars](https://img.shields.io/github/stars/Ramansh-codes?style=flat-square&color=378ADD&label=Total%20Stars)
+![Repos](https://img.shields.io/badge/Public%20Repos-2-7F77DD?style=flat-square)
 ---
 
 ## 🎯 Building Toward in 2026
